@@ -1,0 +1,27 @@
+body {
+    background-color: black;
+}
+header {
+    display: flex;
+}
+
+.logo {
+    width: 10%;
+}
+nav {
+    display: inline-block;
+}
+li {
+    display: inline-block;
+    padding: 1rem;
+}
+
+a {
+  color: white;  
+  text-decoration: none;
+  font-size: 20;
+}
+
+.active {
+    color: crimson;
+}
